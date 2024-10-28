@@ -1,1 +1,6 @@
 # CS-230-12534
+The Gaming Room, the client, aimed to expand their game "Draw It or Lose It," initially built for Android, to a web-based format accessible across various platforms. They needed software that supports multiple games with unique team and player names while running seamlessly across devices. I focused on clearly outlining these requirements, including the necessity for unique identifiers for each game instance, team, and player, which allowed for a well-organized development approach. Working through the design document highlighted the importance of meeting platform-specific constraints while maintaining cross-compatibility. If I could improve one aspect, it would be the security framework, adding more user-focused access and privacy options based on their input.
+
+To address the client’s goals, I focused on creating a scalable and modular design that would support diverse game interactions. Prioritizing user needs helped guide choices around accessibility and functionality, ensuring an optimal gaming experience. My design process involved careful analysis of requirements and using Singleton and Entity patterns to establish clear relationships between game elements. For future projects, I’d incorporate agile practices more frequently, allowing for ongoing feedback to better refine the design.
+
+Francis Torres Rios
